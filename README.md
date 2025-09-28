@@ -1,7 +1,9 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Ahmad Ali</h1>
-  <h3 align="center">A passionate Fullstack and Mobile Engineer from Egypt</h3>
+  <h1>Hi 👋, I'm Ahmad Ali</h1>
+  <h3>A passionate Fullstack & Mobile Engineer</h3>
 </div>
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmadabdelaziz8&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadabdelaziz8" />
@@ -12,14 +14,16 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working as a **Fullstack Engineer** at SDN.
-- 🌱 I’m currently learning **[Your current learning focus]**.
-- 💬 Ask me about **React, React Native, Node.js, and anything JavaScript-related**.
-- 📫 How to reach me: **[Your Email Address]**
-- 😄 Pronouns: **[Your Pronouns]**
+- 🌱 I’m diving deep into **AI and Automation**.
+- 💬 Ask me about **React, React Native, Node.js**
+- 📫 How to reach me: **ahmadabdelaziz8@gmail.com**
+- ⚡ Fun fact: Before writing code, I was a surgeon!
+
+<br>
 
 ---
 
-### CONNECT WITH ME
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
@@ -27,9 +31,11 @@
   <a href="https://instagram.com/your-instagram-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-username" height="30" width="40" /></a>
 </p>
 
+<br>
+
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Stack
 
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -58,6 +64,22 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
+<br>
+
+---
+
+### 📊 My GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadabdelaziz8&show_icons=true&locale=en&theme=tokyonight" alt="ahmadabdelaziz8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadabdelaziz8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ahmadabdelaziz8" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmadabdelaziz8/ahmadabdelaziz8/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+<br>
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -66,13 +88,4 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ahmadabdelaziz8" alt="ahmadabdelaziz8" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadabdelaziz8&show_icons=true&locale=en" alt="ahmadabdelaziz8" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadabdelaziz8&show_icons=true&locale=en&layout=compact" alt="ahmadabdelaziz8" />
 </p>
