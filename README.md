@@ -17,7 +17,6 @@
 - 🌱 I’m diving deep into **AI and Automation**.
 - 💬 Ask me about **React, React Native, Node.js**
 - 📫 How to reach me: **ahmadabdelaziz8@gmail.com**
-- ⚡ Fun fact: Before writing code, I was a surgeon!
 
 <br>
 
