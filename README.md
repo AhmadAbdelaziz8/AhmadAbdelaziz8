@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Ahmad Ali</h1>
+  <h1>Hi , I'm Ahmad Ali</h1>
   <h3>A passionate Fullstack & Mobile Engineer</h3>
 </div>
 
@@ -11,18 +11,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I’m currently working as a **Fullstack Engineer** at SDN.
-- 🌱 I’m diving deep into **AI and Automation**.
-- 💬 Ask me about **React, React Native, Node.js**
-- 📫 How to reach me: **ahmadabdelaziz8@gmail.com**
+- I’m currently working as a **Fullstack Engineer** at SDN.
+- I’m diving deep into **AI and Automation**.
+- Ask me about **React, React Native, Node.js**
+- How to reach me: **ahmadabdelaziz8@gmail.com**
 
 <br>
 
 ---
 
-### 🤝 Connect with Me on Linkedin
+### Connect with Me on Linkedin
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmadabdelaziz8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
