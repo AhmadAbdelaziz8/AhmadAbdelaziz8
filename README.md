@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi , I'm Ahmad Ali</h1>
-  <h3>A passionate Fullstack & Mobile Engineer</h3>
+  <h1>Hi, I'm Ahmad Ali</h1>
+  <h3>A Fullstack & Mobile Engineer</h3>
 </div>
 
 <br>
