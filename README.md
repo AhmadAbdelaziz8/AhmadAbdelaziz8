@@ -13,9 +13,9 @@
 
 ### About Me
 
-- I’m currently working as a **Fullstack Engineer** at SDN.
+- I’m currently working as a **Software and AI Engineer** at TJM Labs.
 - I’m diving deep into **AI and Automation**.
-- Ask me about **React, React Native, Node.js**
+- Ask me about **React, React Native, Node.js, GoLang**
 - How to reach me: **ahmadabdelaziz8@gmail.com**
 
 <br>
@@ -60,27 +60,4 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-</p>
-
-<br>
-
----
-
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadabdelaziz8&show_icons=true&locale=en&theme=tokyonight" alt="ahmadabdelaziz8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadabdelaziz8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ahmadabdelaziz8" />
-</p>
-
-<br>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmadabdelaziz8" alt="ahmadabdelaziz8" />
-  </a>
 </p>
